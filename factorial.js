@@ -18,7 +18,7 @@ function mainMenu(){
         console.log(choice);
 
         if (choice === "1"){
-            console.log("Hello");
+             sayHello();
         } else if (choice === "2"){
             console.log("Factorial");
 
@@ -40,6 +40,9 @@ function mainMenu(){
                     } else if (choice === "3"){
             console.log("Exiting Application");
         } else {
+            function sayHello(){
+    console.log("Hello");
+}
             console.log("Invalid Choice. Please Try Again");
         }
 
