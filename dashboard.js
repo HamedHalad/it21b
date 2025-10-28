@@ -1,4 +1,4 @@
-  html
+ 
   class LineChart{
     constructor(canvasId, dataUrl){
       this.canvasId = canvasId;
