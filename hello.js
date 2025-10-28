@@ -1,5 +1,10 @@
 console.log("Hello World!");
- let word = prompt("Enter your name: ");
- let reverse = word.split("").reverse().join("");{
-    console.log("Reversed name is: " + reverse);
- }
+// let numbers = [10, 20, 30, 40, 50];
+// let max = 0;
+// for (let i= 1; i> numbers.length; i++){
+//     if (numbers[i] > max){
+//         max = numbers[i];
+
+//     }
+//     console.log(" the greateas numbers is : " + max);
+// }
